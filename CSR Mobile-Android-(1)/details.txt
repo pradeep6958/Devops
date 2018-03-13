@@ -1,0 +1,2 @@
+Mobile automation using perfecto selenium:-
+once build is ready by dev team perfecto pulled that build from dev enviorment to ST enviorment autoamtically.after sucessfull execution we will get result in html format as well pdf format.
